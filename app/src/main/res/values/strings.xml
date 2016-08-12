@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Dynamic View App</string>
+    <string name="hello_world">Hello World!</string>
 </resources>
